@@ -1,4 +1,8 @@
 Another file!
 Who can see what's happening next..
 i have to add some more tho this file. 
+<<<<<<< .merge_file_a14952
 Ben was here..
+=======
+Anne was here..
+>>>>>>> .merge_file_a12456
